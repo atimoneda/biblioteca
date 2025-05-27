@@ -54,10 +54,16 @@ body {
 
 .book-cover {
   width: 200px;
-  height: 300px;
+  height: auto;
   object-fit: cover;
-  border-radius: 6px;
-  flex-shrink: 0;
+  border-radius: 8px;
+}
+
+.badge {
+  font-size: 0.75rem;
+  padding: 0.2em 0.4em;
+  border-radius: 0.25rem;
+  background-color: #eee;
 }
 
 

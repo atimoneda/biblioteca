@@ -6,7 +6,8 @@ title: Llibreria
 <div class="post-preview d-flex align-items-start mx-auto" style="width: 90%;">
   <img src="{{ site.baseurl }}/assets/images/22_11_63.jpg" alt="Portada llibre" class="book-cover me-3">
   <div>
-    <h3>22/11/63</h3>
+    <h3 class="mb-1">22/11/63</h3>
+    <p class="text-muted mb-2">de <strong>Stephen King</strong></p>
     <p>
       Primera novel·la d'Stephen King que llegeixo i m'ha encantat. Feia temps que no llegia una novel·la llarga, i aquesta se m'ha fet curta. Capítols curts on sempre passen coses.
     </p>
@@ -19,12 +20,12 @@ title: Llibreria
     <p>
       Nota: 8/10.
     </p>
-    <small>Publicat el 15 de maig de 2025</small>
+    <small class="text-muted">Publicat el 15 de maig de 2025  · <span class="badge bg-light text-secondary">#2025</span></small>
   </div>
 </div>
 
 <br>
-href="{{ site.baseurl }}/assets/css/style.css"
+
 <div class="post-preview d-flex align-items-start mx-auto" style="width: 90%;">
   <img src="{{ site.baseurl }}/assets/images/Invicto.jpg" alt="Portada llibre" class="book-cover me-3">
   <div>

@@ -4,29 +4,54 @@
     {% include head.html %}
   </head>
   <body>
-    <div class="d-flex">
+
+    <!-- Capçalera a tota amplada -->
+    <div class="jumbotron text-white p-5 mb-0" style="background-image: url('https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1500&q=80'); background-size: cover; background-position: center; border-radius: 0;">
+      <h1 class="display-4 fw-bold">La Llibreria</h1>
+    </div>
+
+    <!-- Contenidor principal -->
+    <div class="d-flex flex-column flex-md-row min-vh-100">
+
       <!-- Barra lateral -->
-      <div class="sidebar bg-dark text-white p-4" style="width: 240px; min-height: 100vh; position: fixed;">
-        <h2 class="mb-4">📚 Blog de lectura</h2>
+      <nav class="bg-dark text-white p-4 d-none d-md-block" style="width: 240px;">
+        <div class="mb-4 text-uppercase text-center border-bottom pb-2">
+          <span class="fs-6 fw-bold letter-spacing-1 text-nowrap">La Llibreria</span>
+        </div>
         <ul class="nav flex-column">
           <li class="nav-item"><a class="nav-link text-white" href="/">Home</a></li>
           <li class="nav-item"><a class="nav-link text-white" href="/about">About</a></li>
         </ul>
+      </nav>
+
+      <!-- Navbar superior per mòbils -->
+      <nav class="navbar navbar-dark bg-dark d-md-none">
+        <div class="container-fluid">
+          <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mobileMenu" aria-controls="mobileMenu">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <span class="navbar-brand mb-0 h1">📚 La Llibreria</span>
+        </div>
+      </nav>
+
+      <!-- Menú offcanvas mòbil -->
+      <div class="offcanvas offcanvas-start text-bg-dark" tabindex="-1" id="mobileMenu">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title">📚 La Llibreria</h5>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+          <ul class="nav flex-column">
+            <li class="nav-item"><a class="nav-link text-white" href="/">Home</a></li>
+            <li class="nav-item"><a class="nav-link text-white" href="/about">About</a></li>
+          </ul>
+        </div>
       </div>
 
       <!-- Contingut principal -->
-      <div class="content" style="margin-left: 220px; width: 100%;">
-
-        <!-- Hero amb imatge de fons -->
-        <div class="jumbotron text-white p-5 mb-4" style="background-image: url('https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1500&q=80'); background-size: cover; background-position: center; border-radius: 0;">
-          <h1 class="display-4 fw-bold">La Llibreria</h1>
-        </div>
-
-        <div class="p-4">
-          {{ content }}
-        </div>
+      <div class="flex-grow-1 p-4">
+        {{ content }}
       </div>
-
     </div>
   </body>
 </html>
