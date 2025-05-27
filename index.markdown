@@ -4,7 +4,7 @@ title: Llibreria
 ---
 
 <div class="post-preview d-flex align-items-start mx-auto" style="width: 90%;">
-  <img src="{{ '/biblioteca/assets/images/22_11_63.jpg' }}" alt="Portada llibre" class="book-cover me-3">
+  <img src="{{ site.baseurl }}/assets/images/22_11_63.jpg" alt="Portada llibre" class="book-cover me-3">
   <div>
     <h3>22/11/63</h3>
     <p>
@@ -24,9 +24,9 @@ title: Llibreria
 </div>
 
 <br>
-
+href="{{ site.baseurl }}/assets/css/style.css"
 <div class="post-preview d-flex align-items-start mx-auto" style="width: 90%;">
-  <img src="{{ '/biblioteca/assets/images/Invicto.jpg' }}" alt="Portada llibre" class="book-cover me-3">
+  <img src="{{ site.baseurl }}/assets/images/Invicto.jpg" alt="Portada llibre" class="book-cover me-3">
   <div>
     <h3>Títol de prova del llibre</h3>
     <p>
