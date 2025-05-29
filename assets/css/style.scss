@@ -53,10 +53,24 @@ body {
 }
 
 .book-cover {
-  width: 200px;
+  width: 150px;
   height: auto;
-  object-fit: cover;
-  border-radius: 8px;
+  border-radius: 4px;
+}
+
+
+@media (max-width: 768px) {
+  .post-preview {
+    flex-direction: column !important;
+    text-align: center;
+  }
+
+  .book-cover {
+    width: 100%;
+    max-width: 300px;
+    align-items: center;
+    margin: 0 auto 1rem;
+  }
 }
 
 .badge {
