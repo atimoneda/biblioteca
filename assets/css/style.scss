@@ -53,7 +53,7 @@ body {
 }
 
 .book-cover {
-  width: 150px;
+  width: 200px;
   height: auto;
   border-radius: 4px;
 }
@@ -68,7 +68,6 @@ body {
   .book-cover {
     width: 100%;
     max-width: 300px;
-    align-items: center;
     margin: 0 auto 1rem;
   }
 }
