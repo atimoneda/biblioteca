@@ -58,6 +58,11 @@ body {
   border-radius: 4px;
 }
 
+.read-more-link {
+  text-decoration: none;
+  color: inherit;
+}
+
 
 @media (max-width: 768px) {
   .post-preview {
@@ -66,7 +71,7 @@ body {
   }
 
   .book-cover {
-    width: 100%;
+    width: 200px;
     max-width: 300px;
     margin: 0 auto 1rem;
   }

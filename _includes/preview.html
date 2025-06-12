@@ -1,0 +1,58 @@
+<div class="card mb-4 mx-auto" style="max-width: 900px; max-height: 900px;">
+    <div class="row g-0 h-100">
+      <!-- Columna de la imatge -->
+      <div class="col-md-4 text-center p-3">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image | relative_url }}" alt="Portada llibre {{ post.title }}" class="img-fluid rounded book-cover">
+        </a>
+      </div>
+  
+      <!-- Columna del contingut -->
+      <div class="col-md-8 d-flex flex-column justify-content-between p-3">
+        <div>
+          <h4 class="card-title mb-1">
+            <a href="{{ post.url | relative_url }}" class="text-decoration-none text-dark" style="font-size: 1.6rem;">
+              {{ post.title }}
+            </a>
+          </h4>
+          <p class="card-subtitle text-muted mb-2">de <strong>{{ post.author }}</strong></p>
+  
+          <p class="card-text mb-2">
+            {{ post.excerpt | strip_html | truncatewords: 40 }}...
+          </p>
+  
+          <a href="{{ post.url | relative_url }}" class="read-more-link">
+            <small class="text-muted">Fes clic per llegir més →</small>
+          </a>
+        </div>
+  
+        <!-- Peu de la targeta -->
+        <div class="d-flex justify-content-between align-items-center mt-4">
+            <small class="text-muted mb-0">
+              Publicat el {{ post.date | date: "%-d de %B de %Y" 
+              | replace: "January", "gener"
+              | replace: "February", "febrer"
+              | replace: "March", "març"
+              | replace: "April", "abril"
+              | replace: "May", "maig"
+              | replace: "June", "juny"
+              | replace: "July", "juliol"
+              | replace: "August", "agost"
+              | replace: "September", "setembre"
+              | replace: "October", "octubre"
+              | replace: "November", "novembre"
+              | replace: "December", "desembre"
+            }}
+            </small>
+            {% if post.tags %}
+              <div class="text-end">
+                {% for tag in post.tags %}
+                  <span class="badge bg-light text-secondary ms-1">#{{ tag }}</span>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </div>
+      </div>
+    </div>
+  </div>
+  
