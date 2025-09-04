@@ -84,4 +84,27 @@ body {
   background-color: #eee;
 }
 
+.btn-back-home-literary {
+  background-color: #fff8f0;   /* to càlid paper */
+  border: 1px solid #e0c097;   /* contorn tipus pergamí */
+  color: #6c4a2f;              /* marró literari */
+  font-family: "Georgia", serif;
+  font-style: italic;
+  font-weight: 500;
+  padding: 10px 20px;
+  border-radius: 10px;
+  transition: all 0.25s ease-in-out;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.btn-back-home-literary:hover {
+  background-color: #fcebd2;   /* paper una mica més fosc */
+  color: #4a2c15;              /* marró més intens */
+  transform: translateY(-2px);
+  box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+}
+
 
