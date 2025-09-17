@@ -14,4 +14,4 @@ Un petit manual molt senzill sobre com aplicar aquest métode japonés que consi
 
 Carregat d'exemples d'éxit potser una mica exagerats però que pot engrescar a algú a començar a fer aquell canvi que porta anys volent però que per diverses circumstancies encara no ha començat.
 
-Només el recomanaria si ets nou en aquest tipus de llibres però realment no aporta res de nou, simplement fer una mica d'ús del sentit comú.
+Només el recomanaria si ets nou en aquest tipus de llibres però realment no aporta res de nou, simplement fer una mica d'ús del sentit comú. 
