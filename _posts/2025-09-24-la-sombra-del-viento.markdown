@@ -12,7 +12,7 @@ Hi ha llibres que passen per les nostres mans i s’obliden amb el temps, i n’
 
 Un nen de deu anys troba una novel·la al misteriós Cementiri de Llibres Oblidats i, un cop llegida, li agrada tant que intenta buscar més novel·les del mateix autor i informació sobre ell. Sorprès per la dificultat de trobar-ne més detalls, continua investigant la misteriosa història de l'autor. Com més s'endinsa en la fosca i tenebrosa vida que va descobrint, més s'hi va implicant sense adonar-se'n, fins que a poc a poc es va descobrint el paral·lelisme de les seves vides.
 
-És una novel·la fosca i plena d'ombres que enganxa des del principi, on tots els personatges tenen la seva pròpia història, molt ben desenvolupada i lligada amb la principal. Els llibres, els escriptors, els lectors i les llibreries són el context principal, i està plena de referències literàries que en més d'una ocasió m'han fet dibuixar un somriure sense voler.
+És una novel·la fosca i plena d'ombres que enganxa des del principi, on tots els personatges tenen la seva pròpia història, molt ben desenvolupada i lligada amb la principal. Els llibres, els escriptors, els lectors i les llibreries són el context principal juntament amb la Barcelona de la postguerra, i està plena de referències literàries que en més d'una ocasió m'han fet dibuixar un somriure sense voler.
 
 Gairebé 600 pàgines poden espantar els lectors ocasionals, però de ben segur que no se'n penediran. Si li donen una oportunitat, es transformaran en 600 pàgines de plaer. Us en dono la meva paraula.
 
