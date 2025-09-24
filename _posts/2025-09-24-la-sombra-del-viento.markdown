@@ -18,4 +18,4 @@ Gairebé 600 pàgines poden espantar als lectors ocasionals, però de ben segur 
 
 La recomano 100% i si l'heu llegida fa temps, us en recomano la relectura.
 
-Ara, després d'haver-la llegit, no podré evitar llegir d'aqui a poc la resta de novel·les de la saga d'<i>El cementerio de los libros olvidados</i>
+Ara, després d'haver-la llegit, no podré evitar llegir d'aqui a poc la resta de novel·les de la saga d'<i>El cementerio de los libros olvidados</i>.
