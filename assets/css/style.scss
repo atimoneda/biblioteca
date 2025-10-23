@@ -164,4 +164,35 @@ body {
   font-family: 'Merriweather', Georgia, serif;
 }
 
+/* Paginació */
+.hover\:bg-light:hover {
+  background-color: #f7f7f7;
+  transition: background-color 0.3s ease;
+}
+
+.pagination-nav {
+  display: flex;
+  justify-content: center;  /* Centra horitzontalment */
+  align-items: center;      /* Alinea verticalment */
+  gap: 1rem;                /* Espai entre elements */
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.pagination-info {
+  font-size: 1rem;
+  color: #444;
+  margin: 0 0.5rem;
+  display: flex;
+  align-items: center; /* assegura alineació vertical amb el botó */
+}
+
+.pagination-info {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+  color: #3a3a3a;
+}
+
+
 

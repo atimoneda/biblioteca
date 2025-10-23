@@ -31,11 +31,15 @@ github_username:  jekyll
 lang: ca
 locale: ca
 
+paginate: 10
+paginate_path: "page:num"
+
 # Build settings
 # theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
