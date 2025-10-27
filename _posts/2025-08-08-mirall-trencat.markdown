@@ -2,7 +2,7 @@
 layout: post
 title: "Mirall trencat"
 author: "Mercè Rodoreda"
-image: "/assets/images/mirall_trencat.png"
+image: "/assets/images/mirall_trencat.webp"
 date: 2025-08-08
 tags: [2025, "novel·la"]
 nota: "8/10"

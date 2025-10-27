@@ -2,7 +2,7 @@
 layout: post
 title: "22/11/63"
 author: "Stephen King"
-image: "/assets/images/22_11_63.jpg"
+image: "/assets/images/22_11_63.webp"
 date: 2025-05-15
 tags: [2025, "novel·la"]
 nota: "8/10"

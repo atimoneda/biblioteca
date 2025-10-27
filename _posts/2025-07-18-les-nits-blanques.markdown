@@ -2,7 +2,7 @@
 layout: post
 title: "Les nits blanques. La dispesera"
 author: "Fiódor Dostoievski"
-image: "/assets/images/les_nits_blanques.png"
+image: "/assets/images/les_nits_blanques.webp"
 date: 2025-07-18
 tags: [2025, "novel·la"]
 nota: "6/10"

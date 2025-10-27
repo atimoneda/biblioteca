@@ -2,7 +2,7 @@
 layout: post
 title: "La Sombra del Viento"
 author: "Carlos Ruiz Zafón"
-image: "/assets/images/la_sombra_del_viento.png"
+image: "/assets/images/la_sombra_del_viento.webp"
 date: 2025-09-24
 tags: [2025, "novel·la"]
 nota: "10/10"

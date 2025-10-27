@@ -2,7 +2,7 @@
 layout: post
 title: "El Juego del Ángel"
 author: "Carlos Ruiz Zafón"
-image: "/assets/images/el_juego_del_angel.png"
+image: "/assets/images/el_juego_del_angel.webp"
 date: 2025-10-20
 tags: [2025, "novel·la"]
 nota: "9/10"

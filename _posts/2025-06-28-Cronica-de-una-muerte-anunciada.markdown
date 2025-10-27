@@ -2,7 +2,7 @@
 layout: post
 title: "Crónica de una muerte anunciada"
 author: "Gabriel García Márquez"
-image: "/assets/images/cronica_de_una_muerte_anunciada.jpeg"
+image: "/assets/images/cronica_de_una_muerte_anunciada.webp"
 date: 2025-06-28
 tags: [2025, "novel·la"]
 nota: "6/10"
