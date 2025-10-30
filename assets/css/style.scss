@@ -53,6 +53,14 @@ body {
 }
 
 .book-cover {
+  width: 250px;
+  height: auto;
+  border-radius: 4px;
+  margin-top: 60px;
+  object-position: top;
+}
+
+.book-cover-card {
   width: 200px;
   height: auto;
   border-radius: 4px;
