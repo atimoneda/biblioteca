@@ -14,6 +14,6 @@ Aquesta novel·la actua com a pont entre les altres dues i va molt lligada a <i>
 
 El llibre se centra en la història entre dos personatges principals de la saga i, amb el mateix estil narratiu fosc i misteriós, et deixa a les portes de la quarta i última novel·la de la tetràlogia, on s'espera que s'acabin de lligar els fils.
 
-Tot i ser més breu, és una novel·la molt intensa i essencial dins la sèrie. Recomano és llegir-la seguint l'ordre de publicació. Inicialment volia intercalar-les amb altes llibres, però m'han agradat tant que les tres últimes les llegides una rere l'altre.
+Tot i ser més breu, és una novel·la molt intensa i essencial dins la sèrie. Recomano llegir-la seguint l'ordre de publicació. Inicialment volia intercalar-les amb altes llibres, però m'han agradat tant que les tres últimes les llegides una rere l'altre.
 
 M'he quedat tant atrapat a la història que ja estic llegint l'última entrega, <i>El laberinto de los espíritus</i>, la gran cloenda d'aquest univers literari. Aviat, si tot va bé, en podreu llegir la ressenya.
