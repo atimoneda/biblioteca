@@ -4,7 +4,7 @@ title: "El método kaizen"
 author: "Robert Maurer"
 image: "/assets/images/el_metodo_kaizen.webp"
 date: 2025-09-17
-tags: [2025, "assaig"]
+tags: [2025, "assaig", "divulgació"]
 nota: "5/10"
 ---
 

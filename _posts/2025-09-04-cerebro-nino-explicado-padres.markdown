@@ -4,7 +4,7 @@ title: "El cerebro del niño explicado a los padres"
 author: "Álvaro Bilbao"
 image: "/assets/images/el_cerebro_del_nini_explicado_a_los_padres.webp"
 date: 2025-09-04
-tags: [2025, "assaig"]
+tags: [2025, "assaig", "divulgació"]
 nota: "9/10"
 ---
 
