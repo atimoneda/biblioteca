@@ -4,7 +4,7 @@ title: "El laberint dels extraviats: Occident i els seus adversaris"
 author: "Amin Maalouf"
 image: "/assets/images/el_laberint_dels_extraviats.webp"
 date: 2026-04-10
-tags: [2026, "assaig", "geopolitica"]
+tags: [2026, "assaig", "geopolítica"]
 nota: "9/10"
 ---
 
