@@ -1,0 +1,14 @@
+<div class="mt-4">
+  <h6 class="text-uppercase text-secondary mb-2">Entrades per anys</h6>
+  <ul class="nav flex-column">
+    {% assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for year in years %}
+      <li class="nav-item">
+        <a class="nav-link text-white d-flex align-items-center gap-1" href="{{ '/anys/' | relative_url }}{{ year.name }}/">
+          <span>{{ year.name }}</span>
+          <span class="small text-white-50">({{ year.items | size }})</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
